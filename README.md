@@ -18,7 +18,7 @@
 
 ### 허용되는 SQL 문법
 ```sql
-SELECT / FROM / JOIN / ON / WHERE / GROUP BY / HAVING / ORDER BY / LIMIT
+SELECT / FROM / JOIN  ON / WHERE / GROUP BY / HAVING / ORDER BY / LIMIT
 ```
 
 ### 수사 방법
